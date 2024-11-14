@@ -69,4 +69,4 @@ Select * From Meetings
 Select * From MeetingItem
 Select * From MeetingItemHistory
 
---DELETE FROM MeetingItem WHERE item_Name='something'
+DELETE FROM MeetingItemHistory WHERE item_Name ='Finalise SomeCompany contract'
