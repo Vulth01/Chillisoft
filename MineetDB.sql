@@ -61,13 +61,12 @@ VALUES
 
 
 	
+DROP TABLE Meetings
 DROP TABLE MeetingItem
 DROP TABLE MeetingItemHistory
 
 Select * From Meetings
 Select * From MeetingItem
 Select * From MeetingItemHistory
-
-
 
 --DELETE FROM MeetingItem WHERE item_Name='something'

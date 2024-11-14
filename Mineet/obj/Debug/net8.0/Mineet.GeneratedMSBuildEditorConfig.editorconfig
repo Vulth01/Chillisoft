@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mineet
 build_property.RootNamespace = Mineet
-build_property.ProjectDir = C:\Users\damie\OneDrive\Desktop\Chillisoft\Mineet\Mineet\
+build_property.ProjectDir = C:\Users\damie\OneDrive\Desktop\Chillisoft\Mineet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\damie\OneDrive\Desktop\Chillisoft\Mineet\Mineet
+build_property.MSBuildProjectDirectory = C:\Users\damie\OneDrive\Desktop\Chillisoft\Mineet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Home/Index.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Home/Privacy.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/CreateMeeting.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/CreateMeeting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xDcmVhdGVNZWV0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/CreateMeetingItem.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/CreateMeetingItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xDcmVhdGVNZWV0aW5nSXRlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/EditMeetingItem.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/EditMeetingItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xFZGl0TWVldGluZ0l0ZW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/MeetingItems.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/MeetingItems.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xNZWV0aW5nSXRlbXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/MeetingsV.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/MeetingsV.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xNZWV0aW5nc1YuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Meeting/ViewItemHistory.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Meeting/ViewItemHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1xWaWV3SXRlbUhpc3RvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Shared/Error.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/_ViewImports.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/_ViewStart.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Mineet/Views/Shared/_Layout.cshtml]
+[C:/Users/damie/OneDrive/Desktop/Chillisoft/Mineet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tdbmad1ljs

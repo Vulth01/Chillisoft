@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Mineet.csproj": {}
+    "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Mineet.csproj": {
+    "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Mineet.csproj",
+        "projectUniqueName": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet.csproj",
         "projectName": "Mineet",
-        "projectPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Mineet.csproj",
+        "projectPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet.csproj",
         "packagesPath": "C:\\Users\\damie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\obj\\",
+        "outputPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

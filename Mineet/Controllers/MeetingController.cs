@@ -46,7 +46,8 @@ namespace Mineet.Controllers
                     ItemDescription = meetingItem.ItemDescription,
                     ItemStatus = meetingItem.ItemStatus,
                     ItemPersonResponsible = meetingItem.ItemPersonResponsible,
-                    ItemMeetingDate = meetingItem.ItemMeetingDate
+                    ItemMeetingDate = DateOnly.FromDateTime(DateTime.Now)
+
                 };
 
                 db.MeetingItemHistories.Add(meetingItemHistory);
@@ -96,7 +97,7 @@ namespace Mineet.Controllers
             {
                 db.Meetings.Add(meeting);
                 await db.SaveChangesAsync();
-                return RedirectToAction("Meeting");
+                return RedirectToAction("MeetingsV");
             }
             return View(meeting);
         }

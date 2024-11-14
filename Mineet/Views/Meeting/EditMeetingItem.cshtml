@@ -26,14 +26,15 @@
     </div>
     <input type="hidden" asp-for="ItemId" />
     <input type="hidden" asp-for="MeetingId" />
-    <div class="form-group">
+    <div class="form-group mt-3">
     <button type="submit" class="btn btn-primary">Save</button>
     </div>
 </form>
     </div>
 </div>
 
-
-<p>
-    <a asp-action="MeetingItems" asp-route-id="@ViewData["MeetingId"]" class="btn btn-secondary">Back</a>
-</p>
+<div class="mt-3">
+    <p>
+        <a asp-action="MeetingItems" asp-route-id="@ViewData["MeetingId"]" class="btn btn-secondary">Back</a>
+    </p>
+</div>
