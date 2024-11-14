@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\viewitemhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\viewitemhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\meetingsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\meetingsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\meetingitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\meetingitems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\editmeetingitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\editmeetingitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\createmeetingitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\createmeetingitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\meeting\\createmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\meeting\\createmeeting.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\models\\mineetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:models\\mineetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\models\\meetingitemhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:models\\meetingitemhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\models\\meetingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:models\\meetingitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:models\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|c:\\users\\damie\\onedrive\\desktop\\chillisoft\\mineet\\mineet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3947F6C-3653-4FB1-BBF2-AA52649BC6AA}|Mineet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:59:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:59:29.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateMeetingItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\CreateMeetingItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\CreateMeetingItem.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\CreateMeetingItem.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\CreateMeetingItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T20:42:35.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditMeetingItem.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\EditMeetingItem.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\EditMeetingItem.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\EditMeetingItem.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\EditMeetingItem.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T22:13:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeetingItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\MeetingItems.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\MeetingItems.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\MeetingItems.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\MeetingItems.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T22:12:55.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MeetingsV.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\MeetingsV.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\MeetingsV.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\MeetingsV.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\MeetingsV.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T19:36:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T19:08:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T19:08:57.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:48:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateMeeting.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\CreateMeeting.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\CreateMeeting.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\CreateMeeting.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\CreateMeeting.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:12:50.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T21:08:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T19:20:22.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewItemHistory.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\ViewItemHistory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Meeting\\ViewItemHistory.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Meeting\\ViewItemHistory.cshtml",
+              "RelativeToolTip": "Views\\Meeting\\ViewItemHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:21:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T19:33:40.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MineetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MineetDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MineetDbContext.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MineetDbContext.cs",
+              "RelativeToolTip": "Models\\MineetDbContext.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwDwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:40:28.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MeetingItemHistory.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MeetingItemHistory.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingItemHistory.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MeetingItemHistory.cs",
+              "RelativeToolTip": "Models\\MeetingItemHistory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:11:37.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MeetingItem.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MeetingItem.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingItem.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\MeetingItem.cs",
+              "RelativeToolTip": "Models\\MeetingItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:06:45.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "Models\\Meeting.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\Meeting.cs",
+              "RelativeToolTip": "Models\\Meeting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:06:39.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:58:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "Controllers\\MeetingController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:15:56.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T19:08:41.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T23:05:43.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T19:14:00.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\damie\\OneDrive\\Desktop\\Chillisoft\\Mineet\\Mineet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T21:39:41.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

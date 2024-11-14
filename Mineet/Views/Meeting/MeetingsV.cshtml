@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Mineet.Models.Meeting>;
+@{
+    ViewData["Title"] = "MeetingsV";
+}
+
+
+<h2>Meetings</h2>
+
+<p>
+    <a asp-action="CreateMeeting">Create Meeting</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MeetingName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MeetingType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MeetingDate)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MeetingName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MeetingType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MeetingDate)
+                </td>
+
+                <td>
+                    <a asp-action="MeetingItems" asp-route-id="@item.MeetingId">View</a> |
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

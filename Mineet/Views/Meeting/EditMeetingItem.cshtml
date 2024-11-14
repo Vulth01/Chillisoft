@@ -1,0 +1,39 @@
+﻿@model Mineet.Models.MeetingItem
+
+@{
+    ViewData["Title"] = "EditMeetingItem";
+}
+
+<h2>Edit Meeting Item</h2>
+<div class="row">
+    <div class="col-md-4">
+<form asp-action="EditMeetingItem" method="post">
+    <div class="form-group">
+        <label class="control-label">Item Name</label>
+        <input asp-for="ItemName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">Description</label>
+        <textarea asp-for="ItemDescription" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Status</label>
+        <input asp-for="ItemStatus" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label class="control-label">Person Responsible</label>
+        <input asp-for="ItemPersonResponsible" class="form-control" />
+    </div>
+    <input type="hidden" asp-for="ItemId" />
+    <input type="hidden" asp-for="MeetingId" />
+    <div class="form-group">
+    <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+</form>
+    </div>
+</div>
+
+
+<p>
+    <a asp-action="MeetingItems" asp-route-id="@ViewData["MeetingId"]" class="btn btn-secondary">Back</a>
+</p>

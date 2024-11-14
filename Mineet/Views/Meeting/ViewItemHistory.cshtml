@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Mineet.Models.MeetingItemHistory>;
+
+@{
+    ViewData["Title"] = "ViewItemHistory";
+}
+
+<h2>Meeting Item History</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ItemName)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemDescription)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemStatus)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemPersonResponsible)</th>
+            <th>Last Updated</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ItemName)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemDescription)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemStatus)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemPersonResponsible)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemMeetingDate)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="MeetingItems" asp-route-id="@ViewData["MeetingId"]" class="btn btn-secondary">Back</a>
+</p>

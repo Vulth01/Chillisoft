@@ -1,0 +1,34 @@
+﻿@model Mineet.Models.Meeting
+
+@{
+    ViewData["Title"] = "CreateMeeting";
+}
+
+<h2>Create Meeting</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateMeeting" method="post">
+            <div class="form-group">
+                <label class="control-label">Meeting Name</label>
+                <input asp-for="MeetingName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label class="control-label">Description</label>
+                <textarea asp-for="MeetingType" class="form-control"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="MeetingDate" class="control-label">Meeting Date</label>
+                <input asp-for="MeetingDate" type="date" class="form-control" />
+                <span asp-validation-for="MeetingDate" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="MeetingId" />
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<p>
+    <a asp-action="MeetingsV" class="btn btn-secondary">Back</a>
+</p>

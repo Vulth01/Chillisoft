@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Mineet.Models.MeetingItem>;
+
+@{
+    ViewData["Title"] = "MeetingItems";
+}
+
+<h2>Meeting Items</h2>
+
+<p>
+    <a asp-action="CreateMeetingItem" asp-route-id="@ViewData["MeetingId"]">Create</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.ItemName)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemDescription)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemStatus)</th>
+            <th>@Html.DisplayNameFor(model => model.ItemPersonResponsible)</th>
+            <th>Last Updated</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ItemName)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemDescription)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemStatus)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemPersonResponsible)</td>
+                <td>@Html.DisplayFor(modelItem => item.ItemMeetingDate)</td>
+                <td>
+                    <a asp-action="ViewItemHistory" asp-route-id="@item.ItemId">View</a> |
+                    <a asp-action="EditMeetingItem" asp-route-id="@item.ItemId">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="MeetingsV" class="btn btn-secondary">Back</a>
+</p>
